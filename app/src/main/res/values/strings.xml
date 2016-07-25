@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapInLoco</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="weather_api_id">638d7e359353824821fd19d5bc9530ab</string>
+</resources>
